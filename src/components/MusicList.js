@@ -10,10 +10,17 @@ const MusicList = ({songs}) => {
     
     return(
         <div>
-            <ul>
-                {songsItems}
-            </ul>
+            
+                
+                    {songsItems}
+                    
+                
+            
         </div>
+            
+            
+            
+        
 
     )
 

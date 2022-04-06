@@ -14,7 +14,7 @@ const MusicBox = () => {
     const getSongs = function (){
         fetch('https://itunes.apple.com/gb/rss/topsongs/limit=20/json')
         .then(res => res.json())
-        .then(song=> console.log(song))
+        // .then(song=> console.log(song))
         .then(songs => setSongs(songs.feed.entry));
     }
     return(
