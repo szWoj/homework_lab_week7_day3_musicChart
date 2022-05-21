@@ -1,3 +1,19 @@
+![Screen Shot 2022-05-21 at 16 21 23](https://user-images.githubusercontent.com/79700458/169658191-9490ea21-8887-4585-8a52-e1d8987f52e7.png)
+
+This app displays current UK top 20 songs.
+API used : https://itunes.apple.com/gb/rss/topsongs/limit=20/json
+
+This React app allowes to displays the current UK top 20 songs.
+API used: https://itunes.apple.com/gb/rss/topsongs/limit=20/json
+![Screen Shot 2022-05-21 at 16 22 57](https://user-images.githubusercontent.com/79700458/169658328-11ca97ba-6d53-4344-a825-178556b01b7f.png)
+
+It also alowes to play a short 30s sample of any selected song
+
+![Screen Shot 2022-05-21 at 16 27 14](https://user-images.githubusercontent.com/79700458/169658522-7c11117d-256b-489e-9447-98a41cefd9fd.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
